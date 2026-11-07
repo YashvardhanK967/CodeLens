@@ -1,0 +1,326 @@
+{
+  "user": {
+    "username": "Anshul",
+    "platforms_connected": 3
+  },
+  "overview": {
+    "total_solved": 550,
+    "correct_submissions": 850,
+    "failed_submissions": 370,
+    "success_rate": 69.67,
+    "total_contests": 6,
+    "active_days": 5
+  },
+  "platform_comparison": [
+    {
+      "platform": "Codeforces",
+      "username": "anshul_cf",
+      "solved": 180,
+      "current_rating": 1510,
+      "correct_submissions": 300,
+      "failed_submissions": 140,
+      "submission_success_rate": 68.18,
+      "contests_participated": 3
+    },
+    {
+      "platform": "GeeksforGeeks",
+      "username": "anshul_gfg",
+      "solved": 120,
+      "current_rating": null,
+      "correct_submissions": 130,
+      "failed_submissions": 70,
+      "submission_success_rate": 65.0,
+      "contests_participated": 0
+    },
+    {
+      "platform": "LeetCode",
+      "username": "anshul_lc",
+      "solved": 250,
+      "current_rating": 1820,
+      "correct_submissions": 420,
+      "failed_submissions": 160,
+      "submission_success_rate": 72.41,
+      "contests_participated": 3
+    }
+  ],
+  "topic_analytics": [
+    {
+      "topic": "Arrays",
+      "solved": 110,
+      "attempted": 134,
+      "success_rate": 82.09,
+      "classification": "Strong"
+    },
+    {
+      "topic": "Binary Search",
+      "solved": 20,
+      "attempted": 28,
+      "success_rate": 71.43,
+      "classification": "Good"
+    },
+    {
+      "topic": "Depth First Search",
+      "solved": 15,
+      "attempted": 20,
+      "success_rate": 75.0,
+      "classification": "Good"
+    },
+    {
+      "topic": "Dynamic Programming",
+      "solved": 65,
+      "attempted": 145,
+      "success_rate": 44.83,
+      "classification": "Developing"
+    },
+    {
+      "topic": "Graphs",
+      "solved": 22,
+      "attempted": 35,
+      "success_rate": 62.86,
+      "classification": "Developing"
+    },
+    {
+      "topic": "Strings",
+      "solved": 31,
+      "attempted": 36,
+      "success_rate": 86.11,
+      "classification": "Strong"
+    }
+  ],
+  "contest_analytics": {
+    "total_contests": 6,
+    "platforms": [
+      {
+        "platform": "LeetCode",
+        "username": "anshul_lc",
+        "total_contests": 3,
+        "positive_changes": 2,
+        "negative_changes": 1,
+        "average_rating_change": 8.0,
+        "best_rating": 1820,
+        "latest_rating": 1820,
+        "rating_history": [
+          {
+            "timestamp": 1761000000,
+            "date": "2025-10-20",
+            "rating": 1808,
+            "rating_change": 12,
+            "contest_name": "Weekly Contest 101"
+          },
+          {
+            "timestamp": 1761600000,
+            "date": "2025-10-27",
+            "rating": 1800,
+            "rating_change": -8,
+            "contest_name": "Weekly Contest 102"
+          },
+          {
+            "timestamp": 1762200000,
+            "date": "2025-11-03",
+            "rating": 1820,
+            "rating_change": 20,
+            "contest_name": "Weekly Contest 103"
+          }
+        ]
+      },
+      {
+        "platform": "Codeforces",
+        "username": "anshul_cf",
+        "total_contests": 3,
+        "positive_changes": 1,
+        "negative_changes": 2,
+        "average_rating_change": -6.67,
+        "best_rating": 1515,
+        "latest_rating": 1510,
+        "rating_history": [
+          {
+            "timestamp": 1761200000,
+            "date": "2025-10-23",
+            "rating": 1515,
+            "rating_change": -15,
+            "contest_name": "Codeforces Round 201"
+          },
+          {
+            "timestamp": 1761800000,
+            "date": "2025-10-30",
+            "rating": 1505,
+            "rating_change": -10,
+            "contest_name": "Codeforces Round 202"
+          },
+          {
+            "timestamp": 1762400000,
+            "date": "2025-11-06",
+            "rating": 1510,
+            "rating_change": 5,
+            "contest_name": "Codeforces Round 203"
+          }
+        ]
+      },
+      {
+        "platform": "GeeksforGeeks",
+        "username": "anshul_gfg",
+        "total_contests": 0,
+        "positive_changes": 0,
+        "negative_changes": 0,
+        "average_rating_change": null,
+        "best_rating": null,
+        "latest_rating": null,
+        "rating_history": []
+      }
+    ]
+  },
+  "charts": {
+    "platform_solved": [
+      {
+        "platform": "Codeforces",
+        "solved": 180
+      },
+      {
+        "platform": "GeeksforGeeks",
+        "solved": 120
+      },
+      {
+        "platform": "LeetCode",
+        "solved": 250
+      }
+    ],
+    "topic_distribution": [
+      {
+        "topic": "Arrays",
+        "solved": 110
+      },
+      {
+        "topic": "Binary Search",
+        "solved": 20
+      },
+      {
+        "topic": "Depth First Search",
+        "solved": 15
+      },
+      {
+        "topic": "Dynamic Programming",
+        "solved": 65
+      },
+      {
+        "topic": "Graphs",
+        "solved": 22
+      },
+      {
+        "topic": "Strings",
+        "solved": 31
+      }
+    ],
+    "contest_rating_by_platform": [
+      {
+        "platform": "LeetCode",
+        "data": [
+          {
+            "timestamp": 1761000000,
+            "date": "2025-10-20",
+            "rating": 1808
+          },
+          {
+            "timestamp": 1761600000,
+            "date": "2025-10-27",
+            "rating": 1800
+          },
+          {
+            "timestamp": 1762200000,
+            "date": "2025-11-03",
+            "rating": 1820
+          }
+        ]
+      },
+      {
+        "platform": "Codeforces",
+        "data": [
+          {
+            "timestamp": 1761200000,
+            "date": "2025-10-23",
+            "rating": 1515
+          },
+          {
+            "timestamp": 1761800000,
+            "date": "2025-10-30",
+            "rating": 1505
+          },
+          {
+            "timestamp": 1762400000,
+            "date": "2025-11-06",
+            "rating": 1510
+          }
+        ]
+      }
+    ],
+    "daily_activity": [
+      {
+        "date": "2026-10-29",
+        "activity_count": 7
+      },
+      {
+        "date": "2026-10-30",
+        "activity_count": 3
+      },
+      {
+        "date": "2026-10-31",
+        "activity_count": 4
+      },
+      {
+        "date": "2026-11-01",
+        "activity_count": 7
+      },
+      {
+        "date": "2026-11-02",
+        "activity_count": 3
+      }
+    ]
+  },
+  "insights": [
+    {
+      "type": "overview",
+      "title": "Combined coding profile analysed",
+      "description": "CodePulse combined 550 platform-reported solved counts across 3 connected profiles. Counts may overlap across platforms."
+    },
+    {
+      "type": "strength",
+      "title": "Strong performance in Strings",
+      "description": "The reported success rate is 86.11% across 36 attempts."
+    },
+    {
+      "type": "contest",
+      "title": "Recent Codeforces rating dip",
+      "description": "The last three recorded rating changes sum to -20. Review those contests for recurring mistakes."
+    }
+  ],
+  "recommendations": [
+    {
+      "priority": "Medium",
+      "topic": "Dynamic Programming",
+      "action": "Revise core Dynamic Programming patterns and solve a small, consistent set of practice problems.",
+      "reason": "Your reported success rate for Dynamic Programming is 44.83% across 145 attempts."
+    },
+    {
+      "priority": "Medium",
+      "topic": "Graphs",
+      "action": "Revise core Graphs patterns and solve a small, consistent set of practice problems.",
+      "reason": "Your reported success rate for Graphs is 62.86% across 35 attempts."
+    },
+    {
+      "priority": "Medium",
+      "topic": null,
+      "action": "Review your last three Codeforces contests and identify recurring mistakes before entering another contest.",
+      "reason": "Your rating changes across the last three recorded Codeforces contests sum to -20."
+    }
+  ],
+  "data_quality": {
+    "partial_data": true,
+    "unavailable_metrics": [
+      "cross_platform_unique_solved_problems (requires problem-level IDs)"
+    ],
+    "notes": [
+      "total_solved is the sum of platform-reported counts; the same problem may be counted on multiple platforms.",
+      "Ratings are kept separate by platform because their rating scales are not directly comparable.",
+      "Topic solved counts can overlap because a problem may have more than one topic tag."
+    ]
+  }
+}

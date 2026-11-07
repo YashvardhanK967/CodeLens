@@ -1,0 +1,64 @@
+{
+  "display_name": "Anshul",
+  "platforms": [
+    {
+      "platform_name": "LeetCode",
+      "username": "anshul_lc",
+      "current_rating": 1820,
+      "total_solved": 250,
+      "correct_submissions": 420,
+      "failed_submissions": 160,
+      "total_attempted": 580,
+      "topics": [
+        {"tag_name": "dp", "solved_count": 35, "attempted_count": 65},
+        {"tag_name": "arrays", "solved_count": 70, "attempted_count": 82},
+        {"tag_name": "binary-search", "solved_count": 20, "attempted_count": 28}
+      ],
+      "contest_history": [
+        {"contest_id": "lc-101", "contest_name": "Weekly Contest 101", "timestamp": 1761000000, "rating_change": 12, "old_rating": 1796, "new_rating": 1808, "rank": 2300},
+        {"contest_id": "lc-102", "contest_name": "Weekly Contest 102", "timestamp": 1761600000, "rating_change": -8, "old_rating": 1808, "new_rating": 1800, "rank": 2900},
+        {"contest_id": "lc-103", "contest_name": "Weekly Contest 103", "timestamp": 1762200000, "rating_change": 20, "old_rating": 1800, "new_rating": 1820, "rank": 1700}
+      ],
+      "daily_activity": {"2026-10-29": 4, "2026-10-30": 2, "2026-11-01": 5},
+      "data_complete": true
+    },
+    {
+      "platform_name": "Codeforces",
+      "username": "anshul_cf",
+      "current_rating": 1510,
+      "total_solved": 180,
+      "correct_submissions": 300,
+      "failed_submissions": 140,
+      "total_attempted": 440,
+      "topics": [
+        {"tag_name": "dynamic-programming", "solved_count": 18, "attempted_count": 50},
+        {"tag_name": "array", "solved_count": 40, "attempted_count": 52},
+        {"tag_name": "dfs", "solved_count": 15, "attempted_count": 20}
+      ],
+      "contest_history": [
+        {"contest_id": "cf-201", "contest_name": "Codeforces Round 201", "timestamp": 1761200000, "rating_change": -15, "old_rating": 1530, "new_rating": 1515, "rank": 4300},
+        {"contest_id": "cf-202", "contest_name": "Codeforces Round 202", "timestamp": 1761800000, "rating_change": -10, "old_rating": 1515, "new_rating": 1505, "rank": 5100},
+        {"contest_id": "cf-203", "contest_name": "Codeforces Round 203", "timestamp": 1762400000, "rating_change": 5, "old_rating": 1505, "new_rating": 1510, "rank": 3900}
+      ],
+      "daily_activity": {"2026-10-29": 3, "2026-10-31": 4, "2026-11-01": 2},
+      "data_complete": true
+    },
+    {
+      "platform_name": "GeeksforGeeks",
+      "username": "anshul_gfg",
+      "current_rating": null,
+      "total_solved": 120,
+      "correct_submissions": 130,
+      "failed_submissions": 70,
+      "total_attempted": 200,
+      "topics": [
+        {"tag_name": "graphs", "solved_count": 22, "attempted_count": 35},
+        {"tag_name": "dynamic programming", "solved_count": 12, "attempted_count": 30},
+        {"tag_name": "strings", "solved_count": 31, "attempted_count": 36}
+      ],
+      "contest_history": [],
+      "daily_activity": {"2026-10-30": 1, "2026-11-02": 3},
+      "data_complete": true
+    }
+  ]
+}
